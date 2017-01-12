@@ -4,7 +4,7 @@ This lab is to introduce you to GitHub, the IT industry's current standard for S
 
 - Research the GitHub for Education offerings
 - Create a GitHub student account (this will give you 5 private repositories for free)
-- Create a new repository called Lab 1
+- new repository called Lab 1. "This line has been changed"
 - Upload a copy of this document to your Lab 1 repository, using either the command prompt or Desktop client (you must Commit and Sync / Push)
 - Once the document has been uploaded to your GitHub repo, go to the Repo in your browser
 - Edit this document by making a change to the text anywhere, then save your change
